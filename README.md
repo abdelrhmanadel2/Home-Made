@@ -14,5 +14,4 @@ I was one of a group of developers team who develop this multiple versions e-com
   ![3](https://user-images.githubusercontent.com/47029136/158963859-413a2fe6-2c71-44ad-9c72-3fed5de73541.png)
   ![4](https://user-images.githubusercontent.com/47029136/158963764-2f635a3f-1d84-4863-9f20-5ee3312ad766.png)
  * Customer APP
-   https://user-images.githubusercontent.com/47029136/158963832-4ea1812a-ffa5-4daf-8698-4e86d6985136.mp4
-
+  <video src=" https://user-images.githubusercontent.com/47029136/158963832-4ea1812a-ffa5-4daf-8698-4e86d6985136.mp4" width=250/></video>
