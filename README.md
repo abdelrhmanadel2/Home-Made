@@ -9,8 +9,11 @@ I was one of a group of developers team who develop this multiple versions e-com
 
   ## Screen Records
   * Customer APP
-  <video src=" https://user-images.githubusercontent.com/47029136/158963832-4ea1812a-ffa5-4daf-8698-4e86d6985136.mp4" width=250/></video>
+  <video src="https://user-images.githubusercontent.com/47029136/158964629-0aa32ef7-4e17-4451-8758-6dc4f82a6916.mp4" width=250/></video>
   
+
+
+
   * Vendor APP
   ![1](https://user-images.githubusercontent.com/47029136/158963862-7c429c5a-9e0d-4aa4-80ec-b1d81007e9cf.png)
   ![2](https://user-images.githubusercontent.com/47029136/158963749-4fd788fb-887a-4c5e-a1a6-31d353efcbbe.png)     
