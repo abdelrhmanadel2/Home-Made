@@ -1,5 +1,5 @@
 # Home-Made
-I was one of a group of developers team who develop this multiple versions e-commerce app for both users and vendors. This app is for selling home made     products in Saudi Arabia. The user could make orders. The vendor could add or delete products and manage orders.
+I was one of a developers team who develop this multiple versions e-commerce app for both users and vendors. This app is for selling home made     products in Saudi Arabia. The user could make orders. The vendor could add or delete products and manage orders.
 
  ## Software requirments
    -flutter 
